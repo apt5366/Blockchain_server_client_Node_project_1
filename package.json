@@ -1,0 +1,23 @@
+{
+  "name": "github_uploads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apt5366/cs297_Blockchain_server_client_Node_project_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apt5366/cs297_Blockchain_server_client_Node_project_1/issues"
+  },
+  "homepage": "https://github.com/apt5366/cs297_Blockchain_server_client_Node_project_1#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  }
+}
